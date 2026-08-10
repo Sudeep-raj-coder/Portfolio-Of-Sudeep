@@ -4,7 +4,7 @@ export const techStack = [
   { name: "Express.js", level: 75 },
   { name: "MongoDB", level: 70 },
   { name: "JavaScript", level: 85 },
-  { name: "Socket.io", level: 65 },
-  { name: "JWT Auth", level: 70 },
+  { name: "Python", level: 65 },
+  { name: "Laravel", level: 70 },
   { name: "Git & GitHub", level: 80 },
 ];

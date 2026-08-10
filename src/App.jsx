@@ -4,6 +4,7 @@ import TechStack from "./components/TechStack";
 import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 import About from "./components/About";
+import ContactForm from "./components/Contactform";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <About />
       <TechStack />
       <Projects />
+      <ContactForm />
       <Footer />
     </div>
   );

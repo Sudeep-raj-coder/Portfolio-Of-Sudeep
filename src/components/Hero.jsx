@@ -28,8 +28,21 @@ export default function Hero() {
         <a href="#projects" className="bg-gradient-to-r from-cyan-400 to-blue-500 text-black font-semibold px-6 py-3 rounded-lg">
           View Projects ↓
         </a>
-        <a href="/resume.pdf" className="border border-white/20 text-white px-6 py-3 rounded-lg">
-          Download Resume ↗
+        <a
+          href="/SudeepCV.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="border border-white/20 text-white px-6 py-3 rounded-lg"
+        >
+          View Resume ↗
+        </a>
+
+        <a
+          href="/SudeepCV.pdf"
+          download="Sudeep_CV.pdf"
+          className="border border-cyan-400/40 text-cyan-400 px-6 py-3 rounded-lg"
+        >
+          Download ↓
         </a>
       </div>
 

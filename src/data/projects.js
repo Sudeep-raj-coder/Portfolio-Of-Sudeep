@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: "FlashChat",
-    description: "Real-time chat app with JWT authentication, Socket.io messaging, and MongoDB storage. Full MERN stack.",
-    tags: ["React", "Socket.io", "JWT", "MongoDB"],
-    github: "https://github.com/Sudeep-raj-coder/flashchat",
-    live: "#",
+    title: "Portfolio Website",
+    description: "Personal portfolio built with React, Tailwind, and Express backend for contact form and project data.",
+    tags: ["React", "Node.js", "Express", "MongoDB"],
+    github: "https://github.com/Sudeep-raj-coder/Portfolio-Of-Sudeep",
+    live: "",
   },
   {
     title: "NewsApp",
@@ -13,11 +13,5 @@ export const projects = [
     github: "https://github.com/Sudeep-raj-coder/newsapp",
     live: "#",
   },
-  {
-    title: "Contact Manager",
-    description: "Full CRUD contact management app with MVC architecture, Mongoose, and server-side EJS templates.",
-    tags: ["Node.js", "Express", "MongoDB", "EJS"],
-    github: "https://github.com/Sudeep-raj-coder/contact-manager",
-    live: "#",
-  },
+
 ];
