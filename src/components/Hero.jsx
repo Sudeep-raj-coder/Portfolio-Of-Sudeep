@@ -21,7 +21,7 @@ export default function Hero() {
       <p className="text-gray-400 max-w-xl mb-8">
         Frontend Developer with hands-on experience building full-stack applications
         using MongoDB, Express, React & Node.js. From FinOps dashboards to real-time
-        chat apps — I ship things that work.
+        chat apps — I ship things that works.
       </p>
 
       <div className="flex gap-4 mb-16">
