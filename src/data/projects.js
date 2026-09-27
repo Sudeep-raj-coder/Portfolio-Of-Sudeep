@@ -11,6 +11,6 @@ export const projects = [
     description: "News aggregator with category filtering and infinite scrolling using react-infinite-scroll-component.",
     tags: ["React", "NewsAPI", "Infinite Scroll"],
     github: "https://github.com/Sudeep-raj-coder/NewsApp",
-    live: "YAHAN_APNA_NEWSAPP_LIVE_LINK_DAALO",
+    live: "https://news-app-h3zu.vercel.app",
   },
 ];
